@@ -1,4 +1,4 @@
-### ALoha 👋 I’m Abhinav Singh
+### Aloha, I’m Abhinav Singh 👋
 
 
 # 💫 About Me:
@@ -17,9 +17,6 @@ I’m currently working on my skills.<br>I’m currently learning more about WEB
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Abhisin90&icon=0&color=5)](https://visitcount.itsvg.in)
