@@ -1,4 +1,6 @@
-### Hi there 👋
+### ALoha 👋 I’m Abhinav Singh
+
+
 # 💫 About Me:
 I’m currently working on my skills.<br>I’m currently learning more about WEB DEVELOPMENT.<br>How to reach me: Email - abhinavsingh0901@gmail.com<br>
 
